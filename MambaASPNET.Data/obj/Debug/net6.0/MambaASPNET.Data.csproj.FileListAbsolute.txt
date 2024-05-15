@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Data.deps.json
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Data.runtimeconfig.json
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\bin\Debug\net6.0\MambaASPNET.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\refint\MambaASPNET.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\MambaASPNET.Data.genruntimeconfig.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Data\obj\Debug\net6.0\ref\MambaASPNET.Data.dll

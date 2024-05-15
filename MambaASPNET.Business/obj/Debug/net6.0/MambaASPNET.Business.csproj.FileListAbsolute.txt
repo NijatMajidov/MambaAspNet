@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Business.deps.json
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Business.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Data.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Data.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\bin\Debug\net6.0\MambaASPNET.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\refint\MambaASPNET.Business.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\MambaASPNET.Business.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Business\obj\Debug\net6.0\ref\MambaASPNET.Business.dll

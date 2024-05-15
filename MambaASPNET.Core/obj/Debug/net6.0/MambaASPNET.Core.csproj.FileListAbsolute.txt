@@ -1,0 +1,12 @@
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\bin\Debug\net6.0\MambaASPNET.Core.deps.json
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\bin\Debug\net6.0\MambaASPNET.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\bin\Debug\net6.0\MambaASPNET.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\refint\MambaASPNET.Core.dll
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\MambaASPNET.Core.pdb
+C:\Users\ll novbe\Desktop\PustokWebApp\MambaASPNET\MambaASPNET.Core\obj\Debug\net6.0\ref\MambaASPNET.Core.dll
